@@ -13,7 +13,8 @@ import java.util.Scanner;
  * @author reroes
  */
 public class Ejemplo08 {
-
+/*el siguiente codigo se utiliza para sacar promedios deacuerdo al numero de 
+    veces que el usuario desee y obtener el promedio*/
     /**
      * @param args the command line arguments
      */

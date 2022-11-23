@@ -16,7 +16,7 @@ public class Ejemplo04 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        int limite_inferior = 10;
+        int limite_inferior = 10;                                                        
         int limite_superior = 20;
         int contador = 10;
         int suma = 0;
